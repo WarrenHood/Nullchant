@@ -1,0 +1,7 @@
+name: com.nullbyte001.enchanter
+version: 0.1
+main: com.nullbyte001.enchanter.Main
+commands:
+   nullchant:
+      description: Enchants an item with a random enchantment.
+      usage: Hold item to enchant and type /nullchant to nullchant. You need at least 1 diamond.
